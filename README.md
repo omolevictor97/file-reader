@@ -1,0 +1,2 @@
+# file-reader
+class inheritance
